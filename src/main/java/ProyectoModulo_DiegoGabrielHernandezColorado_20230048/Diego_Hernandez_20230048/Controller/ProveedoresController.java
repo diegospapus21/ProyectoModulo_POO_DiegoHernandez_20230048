@@ -1,0 +1,9 @@
+package ProyectoModulo_DiegoGabrielHernandezColorado_20230048.Diego_Hernandez_20230048.Controller;
+
+import ProyectoModulo_DiegoGabrielHernandezColorado_20230048.Diego_Hernandez_20230048.Services.ProveedorService;
+
+public class ProveedoresController {
+
+
+
+}
