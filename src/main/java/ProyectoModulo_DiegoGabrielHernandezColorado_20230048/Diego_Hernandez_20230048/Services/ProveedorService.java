@@ -1,4 +1,0 @@
-package ProyectoModulo_DiegoGabrielHernandezColorado_20230048.Diego_Hernandez_20230048.Services;
-
-public class ProveedorService {
-}
