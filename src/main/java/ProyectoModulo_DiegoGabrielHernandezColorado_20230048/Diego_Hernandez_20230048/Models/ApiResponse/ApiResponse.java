@@ -4,6 +4,7 @@ import lombok.Data;
 
 @Data
 public class ApiResponse <t>{
+    private final t data;
     private String status;
     private t Data;
     private String message;
@@ -13,7 +14,8 @@ public class ApiResponse <t>{
         this.data = data;
     }
 
-    public ApiResponse(String status, String message){
+    public ApiResponse(t data, String status, String message){
+        this.data = data;
         this.status = status;
         this.message = message;
     }
